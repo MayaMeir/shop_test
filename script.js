@@ -18,7 +18,10 @@ const records = [
     new Record(3,'Once', 2004, 'https://img.discogs.com/t5XUoZp9K-F5PuVEw1rm-nsz2nM=/fit-in/500x458/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-672037-1145985015.jpeg.jpg', 'Nightwish', 'Melodic Metal', 10),
     new Record(4,"The Freewheelin' Bob Dylan", 1963, 'https://images-na.ssl-images-amazon.com/images/I/81bANXfbb0L._SL1500_.jpg', 'Bob Dylan', 'Folk', 40),
     new Record(5,'Oops!... I Did It Again', 2000, 'https://img.discogs.com/ESVRsaFWAeDAW2-TpD0zQjVe1Kc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11732183-1521435435-3506.jpeg.jpg', 'Britney Spears', 'Pop', 7),
-    new Record(6,'Miss Anthropocene', 2020, 'https://img.discogs.com/IMpOn5abPvQgm3_KnyAd9dwXJrk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14812425-1584788538-6163.jpeg.jpg', 'Grimes', 'Industrial', 50)
+    new Record(6,'Miss Anthropocene', 2020, 'https://img.discogs.com/IMpOn5abPvQgm3_KnyAd9dwXJrk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14812425-1584788538-6163.jpeg.jpg', 'Grimes', 'Industrial', 50),
+    new Record(7,'Demidevil', 2021, 'https://upload.wikimedia.org/wikipedia/en/5/52/Ashnikko_-_Demidevil.png', 'Ashnikko', 'Industrial', 35),
+    new Record(8,'The Fame', 2008, 'https://upload.wikimedia.org/wikipedia/en/d/dd/Lady_Gaga_%E2%80%93_The_Fame_album_cover.png', 'Lady GAGA', 'Pop', 13),
+    new Record(9,'Bridge over Troubled Water', 1970, 'https://upload.wikimedia.org/wikipedia/en/4/41/Simon_and_Garfunkel%2C_Bridge_over_Troubled_Water_%281970%29.png', 'Simon & Garfunkel', 'Folk', 25)
 
 ];
 
