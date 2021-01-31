@@ -1,0 +1,22 @@
+#cartBtn{
+    float: right;
+    font-weight: bold;
+}
+
+#gallery{
+    display: flex;
+    justify-content: space-around;
+}
+
+#headline{
+    font-size: xx-large;
+}
+
+#payBtn{
+    font-size: large;
+}
+
+#price{
+    float: right;
+    font-size: large;
+}
